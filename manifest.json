@@ -1,8 +1,8 @@
 {
-  "name": "Chrome Podio Notifications",
+  "name": "Chrome Podio Notifications - Beta",
   "version": "0.0.1",
   "manifest_version": 2,
-  "description": "Show Podio notifications",
+  "description": "Show Podio notifications - Beta",
   "homepage_url": "https://github.com/jeffdrumgod/Chrome-Podio-Notifications",
   "icons": {
     "16": "icons/podio_16.png",
