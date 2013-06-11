@@ -1,6 +1,7 @@
 # Show Podio notifications in Google Chrome
 
-This plugin show notifications of Podio in Google Chrome
+This plugin (beta) show notifications of Podio in Google Chrome
+
 
 # Installation
 Visit chrome://extensions in your browser (or open up the Chrome menu by clicking the icon to the far right of the Omnibox: . and select Extensions under the Tools menu to get to the same place).
